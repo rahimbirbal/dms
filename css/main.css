@@ -60,14 +60,16 @@
   margin: 0;
 }
 
-.poppins-semibold-26{
+.poppins-semibold-24{
   font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 26px;
-  line-height: 39px;
-  text-align: center;
-  letter-spacing: 0.3px;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+align-items: center;
+letter-spacing: 0.3px;
+
+color: #212121;
   margin: 0;
 }
 
@@ -123,6 +125,17 @@
   margin: 0;
 }
 
+.poppins-medium-14{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.3px;
+  color: #212121;
+  margin: 0;
+}
+
 .poppins-semibold-12{
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -138,6 +151,30 @@
   font-weight: normal;
   font-size: 12px;
   line-height: 18px;
+  margin: 0;
+}
+
+.poppins-semibold-10{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  margin: 0;
+}
+
+.poppins-medium-10{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  margin: 0;
+}
+
+.poppins-medium-10{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
   margin: 0;
 }
 
@@ -158,11 +195,20 @@
   margin: 0;
 }
 
+.center-text{
+  text-align: center;
+}
   /* --- box */
 .box-40{
   width: 40px;
   height: 40px;
 }
+
+.box-32{
+  width: 32px;
+  height: 32px;
+}
+
 
 .box-16{
   width: 16px;
@@ -202,6 +248,10 @@
 
 .color-bg-3{
   background-color: #F4F6F9;;
+}
+
+.color-bg-4{
+  background-color: #F9FAFC;;
 }
 
 
@@ -295,8 +345,7 @@
 }
 
 .profile{
-  width: 96px;
-  height: 96px;
+  width: 100%;
   background-color: whitesmoke;
   border-radius: 16px;
   overflow: hidden;
@@ -621,6 +670,78 @@ iframe{
   padding: 0px 16px;
 }
 
+.center-canvas{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.canvas-login{
+  margin-top: 180px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 835px;
+  height: 512px;
+  background-color: white;
+  box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.06), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+.form-fields{
+  padding: 40px;
+  width: 50%;
+}
+
+.logo-kalla{
+  height: 24px;
+}
+
+.canvas-input{
+  padding: 0px 12px;
+  display: flex;
+  width: 100%;
+  height: 40px;
+  background: #FFFFFF;
+  border: 1px solid #C6D7E5;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.input-field{
+  border: none;
+  width: 100%;
+}
+
+.input-field:focus {
+  outline: none;
+}
+
+.align-item{
+  display: flex;
+  align-items: center;
+}
+
+.button-login{
+  background: #08A563;
+  border-radius: 8px;
+  height: 40px;
+  width: 100%;
+  color: white;
+  border: none;
+}
+
+.canvas-gambar-login{
+  width: 50%;
+  border-radius: 24px;
+}
+
+.gambar-login{
+  width: 100%;
+  border-radius: 24px;
+}
+
 
 @media screen and (max-width: 540px) {
   .img-background1{
@@ -664,6 +785,7 @@ iframe{
   }
 
   .profile{
+    width: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -693,6 +815,14 @@ iframe{
   }
 
   .reply{
+    display: none;
+  }
+
+  .form-fields{
+    width: 100%;
+  }
+
+  .canvas-gambar-login{
     display: none;
   }
 }
