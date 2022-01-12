@@ -1146,6 +1146,17 @@ iframe{
   display: flex;
 }
 
+.duration-aktif{
+  height: 80px;
+  padding: 0px 12px;
+}
+
+.tabel-antrian-job{
+  width: 100%; 
+  background-color: white;
+  table-layout: fixed;
+}
+
 
 @media screen and (max-width: 540px) {
   .img-background1{
