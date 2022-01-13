@@ -389,6 +389,10 @@ tr .width-100p{
   color: white;
 }
 
+.color-bg-white{
+  background-color: white;
+}
+
 
 
 
@@ -1122,7 +1126,6 @@ iframe{
   position: fixed;
   bottom: 0;
   width: 100%;
-  background: #F4F6F9;
   border-radius: 24px 24px 0px 0px;
   padding-top: 24px;
 }
@@ -1155,6 +1158,17 @@ iframe{
   width: 100%; 
   background-color: white;
   table-layout: fixed;
+}
+
+.tabel-kosong{
+  width: 16px;
+  background-color: #F4F6F9;
+}
+
+.isi-cards{
+  width: 120px;
+  height: 96px;
+  padding: 0px 12px;
 }
 
 
