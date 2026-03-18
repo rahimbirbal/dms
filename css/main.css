@@ -325,7 +325,9 @@ color: #212121;
   text-align: center;
 }
 
-table,td{
+.tabel-antrian-job,
+.tabel-antrian-job td,
+.tabel-antrian-job th{
   border: 1px #C6D7E5 solid;
 }
 

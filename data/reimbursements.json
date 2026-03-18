@@ -1,0 +1,222 @@
+[
+  {
+    "name": "NUR FADLY",
+    "empid": "201902910",
+    "businessUnit": "PT. HADJI KALLA (HOLDING)",
+    "reimbursement": "Kacamata (Frame dan Lensa)",
+    "amount": "1.250.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "10/02/2026",
+    "code": "HLDG.RMB.2026-02-0001",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "ANNISA PUTRI",
+    "empid": "201804122",
+    "businessUnit": "PT. HADJI KALLA (HOLDING)",
+    "reimbursement": "Medical Check Up",
+    "amount": "850.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "12/02/2026",
+    "code": "HLDG.RMB.2026-02-0002",
+    "status": "Approved"
+  },
+  {
+    "name": "MUH. RIDWAN",
+    "empid": "201707455",
+    "businessUnit": "KALLA TOYOTA",
+    "reimbursement": "Transport (Taxi)",
+    "amount": "120.000",
+    "budgetStatus": "Off Budget",
+    "requestDate": "13/02/2026",
+    "code": "KLTY.RMB.2026-02-0003",
+    "status": "Rejected"
+  },
+  {
+    "name": "SITI AULIA",
+    "empid": "201910338",
+    "businessUnit": "KALLA TOYOTA",
+    "reimbursement": "Meals (Overtime)",
+    "amount": "95.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "14/02/2026",
+    "code": "KLTY.RMB.2026-02-0004",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "FIRMAN ARDIANSYAH",
+    "empid": "201605019",
+    "businessUnit": "KALLA LOGISTICS",
+    "reimbursement": "Hotel Accommodation",
+    "amount": "1.750.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "15/02/2026",
+    "code": "KLLO.RMB.2026-02-0005",
+    "status": "Approved"
+  },
+  {
+    "name": "RIZKY RAMADHAN",
+    "empid": "201812907",
+    "businessUnit": "KALLA LOGISTICS",
+    "reimbursement": "Fuel (Business Trip)",
+    "amount": "420.000",
+    "budgetStatus": "Off Budget",
+    "requestDate": "16/02/2026",
+    "code": "KLLO.RMB.2026-02-0006",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "NABILA ZAHRA",
+    "empid": "202001144",
+    "businessUnit": "KALLA GROUP ICT",
+    "reimbursement": "Office Supplies",
+    "amount": "260.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "17/02/2026",
+    "code": "KLICT.RMB.2026-02-0007",
+    "status": "Approved"
+  },
+  {
+    "name": "BAGUS PRATAMA",
+    "empid": "201911778",
+    "businessUnit": "KALLA GROUP ICT",
+    "reimbursement": "Internet (WFH)",
+    "amount": "300.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "18/02/2026",
+    "code": "KLICT.RMB.2026-02-0008",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "DEWI LESTARI",
+    "empid": "201603882",
+    "businessUnit": "PT. HADJI KALLA (HOLDING)",
+    "reimbursement": "Training Registration Fee",
+    "amount": "2.500.000",
+    "budgetStatus": "Off Budget",
+    "requestDate": "19/02/2026",
+    "code": "HLDG.RMB.2026-02-0009",
+    "status": "Rejected"
+  },
+  {
+    "name": "ANDI SAHRUL",
+    "empid": "201509227",
+    "businessUnit": "KALLA TOYOTA",
+    "reimbursement": "Parking",
+    "amount": "25.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "20/02/2026",
+    "code": "KLTY.RMB.2026-02-0010",
+    "status": "Approved"
+  },
+  {
+    "name": "RAHMA WULANDARI",
+    "empid": "201708613",
+    "businessUnit": "KALLA LOGISTICS",
+    "reimbursement": "Courier & Shipping",
+    "amount": "180.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "21/02/2026",
+    "code": "KLLO.RMB.2026-02-0011",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "ILHAM MAULANA",
+    "empid": "201911045",
+    "businessUnit": "KALLA GROUP ICT",
+    "reimbursement": "Software Subscription",
+    "amount": "1.200.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "22/02/2026",
+    "code": "KLICT.RMB.2026-02-0012",
+    "status": "Approved"
+  },
+  {
+    "name": "MAYA SARI",
+    "empid": "201701990",
+    "businessUnit": "PT. HADJI KALLA (HOLDING)",
+    "reimbursement": "Medical (Dental)",
+    "amount": "640.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "23/02/2026",
+    "code": "HLDG.RMB.2026-02-0013",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "ADITYA PRANATA",
+    "empid": "201610334",
+    "businessUnit": "KALLA TOYOTA",
+    "reimbursement": "Toll Fee",
+    "amount": "55.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "24/02/2026",
+    "code": "KLTY.RMB.2026-02-0014",
+    "status": "Approved"
+  },
+  {
+    "name": "RINA KUSUMA",
+    "empid": "201812300",
+    "businessUnit": "KALLA LOGISTICS",
+    "reimbursement": "Client Meeting Snacks",
+    "amount": "210.000",
+    "budgetStatus": "Off Budget",
+    "requestDate": "25/02/2026",
+    "code": "KLLO.RMB.2026-02-0015",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "YOGA PRATAMA",
+    "empid": "201905771",
+    "businessUnit": "KALLA GROUP ICT",
+    "reimbursement": "Equipment (Keyboard)",
+    "amount": "450.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "26/02/2026",
+    "code": "KLICT.RMB.2026-02-0016",
+    "status": "Rejected"
+  },
+  {
+    "name": "NISA FITRIANI",
+    "empid": "202002004",
+    "businessUnit": "PT. HADJI KALLA (HOLDING)",
+    "reimbursement": "Travel Allowance",
+    "amount": "900.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "27/02/2026",
+    "code": "HLDG.RMB.2026-02-0017",
+    "status": "Approved"
+  },
+  {
+    "name": "FAJAR NUGRAHA",
+    "empid": "201606770",
+    "businessUnit": "KALLA TOYOTA",
+    "reimbursement": "Medical (Pharmacy)",
+    "amount": "175.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "28/02/2026",
+    "code": "KLTY.RMB.2026-02-0018",
+    "status": "Waiting Approval"
+  },
+  {
+    "name": "LUTFI AKBAR",
+    "empid": "201703556",
+    "businessUnit": "KALLA LOGISTICS",
+    "reimbursement": "Vehicle Maintenance",
+    "amount": "1.100.000",
+    "budgetStatus": "Off Budget",
+    "requestDate": "01/03/2026",
+    "code": "KLLO.RMB.2026-03-0019",
+    "status": "Disabled"
+  },
+  {
+    "name": "DINA AMALIA",
+    "empid": "201910021",
+    "businessUnit": "KALLA GROUP ICT",
+    "reimbursement": "Conference Ticket",
+    "amount": "3.200.000",
+    "budgetStatus": "On Budget",
+    "requestDate": "02/03/2026",
+    "code": "KLICT.RMB.2026-03-0020",
+    "status": "Waiting Approval"
+  }
+]
